@@ -1,2 +1,2 @@
 # Triangle
-Triangle using Vulkan!
+Simple 2D Triangle render using Vulkan!
